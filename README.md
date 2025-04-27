@@ -90,6 +90,20 @@ We are **MetaCode Software Team**, a group of creative and professional develope
 | **LiftLyft** | <img src="https://play-lh.googleusercontent.com/trdK26XT8Xcx1crIuuVnWGLRn7KrUj6fyRum9CLTatkZ-DYIcik2AIR9pq7bZu-P7N5N=w240-h480-rw" alt="LiftLyft Icon" align="center" width="60"/> | [Download App](https://play.google.com/store/apps/details?id=com.liftlyft.app) |
 | **LiftLyft Driver** | <img src="https://play-lh.googleusercontent.com/4OP0As5_OyFC2-3RAc5NQCM_o_sFL8I4kQNsj1WeHd9t323Fb9Wc4uhgHXAaMjD7M6M=w240-h480-rw" alt="LiftLyft Driver Icon" align="center" width="60"/> | [Download App](https://play.google.com/store/apps/details?id=com.liftlyft.app.driver) |
 
+## 🔷 Our Open-Source Libraries
+
+As part of our commitment to the Flutter and Dart community, we have built and published useful open-source libraries:
+
+- **[mc_utils](https://github.com/metacodey/mc_utils/)**:  
+  A collection of practical utilities that enhance Flutter development by simplifying common tasks like UI management, navigation, error handling, and more.
+
+- **[mc_custom_notification](https://github.com/metacodey/mc-custom-notification/)**:  
+  A specialized library to create and manage custom notifications for Android, supporting interactive calls, messages, and custom notification designs.
+
+> ✨ Both libraries are proudly developed and maintained by our team member **[Your Name]**, reflecting our dedication to innovation and community support.
+
+---
+
 ## 🔷 Our Vision
 
 <div align="center">
