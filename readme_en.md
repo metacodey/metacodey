@@ -1,6 +1,6 @@
 <div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
   <a href="https://meta-code-ye.com"><img src="https://avatars.githubusercontent.com/u/170404605?v=4" width="50" /></a>
-  <a href="readme_ar.md"><img src="https://img.shields.io/badge/lang-English-blue" alt="Arabic" /></a>
+  <a href="readme_ar.md"><img src="https://img.shields.io/badge/lang-Arabic-green" alt="Arabic" /></a>
 </div>
   
 # MetaCode Software Team
