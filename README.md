@@ -102,7 +102,7 @@ As part of our commitment to the Flutter and Dart community, we have built and p
 - **[mc_custom_notification](https://github.com/metacodey/mc-custom-notification/)**:  
   A specialized library to create and manage custom notifications for Android, supporting interactive calls, messages, and custom notification designs.
 
-> ✨ Both libraries are proudly developed and maintained by our team member **[MetaCodeYe]**, reflecting our dedication to innovation and community support.
+> ✨ Both libraries are proudly developed and maintained by our team member **[MetaCode]**, reflecting our dedication to innovation and community support.
 
 ---
 
