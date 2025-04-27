@@ -2,7 +2,7 @@
   <a href="https://meta-code-ye.com"><img src="https://avatars.githubusercontent.com/u/170404605?v=4" width="50" /></a>
   <a href="readme_ar.md"><img src="https://img.shields.io/badge/lang-Arabic-green" alt="Arabic" /></a>
 </div>
-  
+<div align="center">
 # MetaCode Software Team
 
 <img src="https://user-images.githubusercontent.com/74038190/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif" alt="MetaCode Logo" width="300"/>
