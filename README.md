@@ -1,5 +1,7 @@
-[<img src="https://avatars.githubusercontent.com/u/170404605?v=4" width="50" />](https://meta-code-ye.com)
-[![English](https://img.shields.io/badge/lang-English-blue)](readme_en.md) 
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <a href="https://meta-code-ye.com"><img src="https://avatars.githubusercontent.com/u/170404605?v=4" width="50" /></a>
+  <a href="readme_en.md"><img src="https://img.shields.io/badge/lang-English-blue" alt="English" /></a>
+</div>
 <div align="center">
   
 #  فريق ميتا كود للبرمجيات 
