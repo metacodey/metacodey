@@ -89,6 +89,22 @@
 | **LiftLyft** | <img src="https://play-lh.googleusercontent.com/trdK26XT8Xcx1crIuuVnWGLRn7KrUj6fyRum9CLTatkZ-DYIcik2AIR9pq7bZu-P7N5N=w240-h480-rw" alt="LiftLyft Icon" align="center" width="60"/> | [تحميل التطبيق](https://play.google.com/store/apps/details?id=com.liftlyft.app) |
 | **LiftLyft Driver** | <img src="https://play-lh.googleusercontent.com/4OP0As5_OyFC2-3RAc5NQCM_o_sFL8I4kQNsj1WeHd9t323Fb9Wc4uhgHXAaMjD7M6M=w240-h480-rw" alt="LiftLyft Driver Icon" align="center" width="60"/> | [تحميل التطبيق](https://play.google.com/store/apps/details?id=com.liftlyft.app.driver) |
 
+
+## 🔷 مكتباتنا مفتوحة المصدر
+
+ضمن التزامنا تجاه مجتمع Flutter وDart، قمنا ببناء ونشر مكتبات مفتوحة المصدر مفيدة:
+
+- **[mc_utils](https://github.com/metacodey/mc_utils/)**:  
+  مجموعة من الأدوات العملية التي تسهّل تطوير التطبيقات باستخدام Flutter عبر تبسيط المهام الشائعة مثل إدارة الواجهات، التنقل، التعامل مع الأخطاء والمزيد.
+
+- **[mc_custom_notification](https://github.com/metacodey/mc-custom-notification/)**:  
+  مكتبة متخصصة لإنشاء وإدارة الإشعارات المخصصة لنظام Android، مع دعم الإشعارات التفاعلية للمكالمات والرسائل وتصميم الإشعارات حسب الطلب.
+
+> ✨ تم تطوير وصيانة هاتين المكتبتين بكل فخر من قبل عضو فريقنا **[MetaCodeYe]**، تأكيدًا على التزامنا بالابتكار ودعم المجتمع التقني.
+
+
+
+
 ## 🔷 رؤيتنا
 
 <div align="center">
