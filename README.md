@@ -1,6 +1,5 @@
 [<img src="https://avatars.githubusercontent.com/u/170404605?v=4" width="50" />](https://meta-code-ye.com)
-[![English](https://img.shields.io/badge/lang-English-blue)](README.md) 
-[![Arabic](https://img.shields.io/badge/lang-Arabic-green)](README_AR.md) 
+[![English](https://github.com/metacodey/metacodey/blob/main/readme_en.md)](README.md) 
 <div align="center">
   
 #  فريق ميتا كود للبرمجيات 
