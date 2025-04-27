@@ -116,7 +116,7 @@ We strive to be pioneers in software development through:
 
 **MetaCode Software Team** | Transforming your ideas into digital reality
 
-<img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="200" alt="MetaCode"/>
+<img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462e35dc5.gif" width="200" alt="MetaCode"/>
 
 ![Divider](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
 
