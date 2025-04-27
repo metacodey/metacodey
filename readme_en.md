@@ -1,37 +1,37 @@
 [<img src="https://avatars.githubusercontent.com/u/170404605?v=4" width="50" />](https://meta-code-ye.com)
 <div align="center">
   
-#  فريق ميتا كود للبرمجيات 
+# MetaCode Software Team
 
-<img src="https://user-images.githubusercontent.com/74038190/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif" alt="شعار ميتا كود" width="300"/>
+<img src="https://user-images.githubusercontent.com/74038190/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif" alt="MetaCode Logo" width="300"/>
 
-**_نبني المستقبل الرقمي سطراً بسطر_**
+**_Building the digital future, line by line_**
 
-![خط فاصل](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
+![Divider](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
 
 </div>
 
-## 🔷 من نحن
+## 🔷 About Us
 
-نحن **فريق ميتا كود للبرمجيات**، مجموعة من المطورين المبدعين والمحترفين المتخصصين في بناء حلول برمجية متكاملة ومبتكرة. نجمع بين الخبرة التقنية العميقة والشغف بالتكنولوجيا لتقديم منتجات رقمية عالية الجودة تلبي احتياجات عملائنا وتتجاوز توقعاتهم.
+We are **MetaCode Software Team**, a group of creative and professional developers specialized in building integrated and innovative software solutions. We combine deep technical expertise with a passion for technology to deliver high-quality digital products that meet our clients' needs and exceed their expectations.
 
-## 🔷 مجالات خبرتنا
+## 🔷 Our Expertise
 
 <div align="center">
 
-| 📱 تطبيقات الجوال | 🖥️ تطبيقات سطح المكتب | 🌐 تطوير الويب |
+| 📱 Mobile Applications | 🖥️ Desktop Applications | 🌐 Web Development |
 |:-------------------:|:-------------------------:|:-------------------:|
 | Android & iOS | Windows Applications | Responsive Websites |
 | Cross-Platform Apps | Desktop Solutions | Web Applications |
-| UI/UX التصميم المتميز | تطبيقات مخصصة | واجهات تفاعلية |
+| UI/UX Design Excellence | Custom Applications | Interactive Interfaces |
 
 </div>
 
-## 🔷 تقنياتنا
+## 🔷 Our Technologies
 
 <div align="center">
 
-### 📊 واجهات المستخدم (Front-End)
+### 📊 Front-End
 
 <table>
   <tr>
@@ -42,7 +42,7 @@
   </tr>
 </table>
 
-### ⚙️ خدمات الخلفية (Back-End)
+### ⚙️ Back-End
 
 <table>
   <tr>
@@ -57,49 +57,49 @@
 
 </div>
 
-## 🔷 منهجيتنا
+## 🔷 Our Methodology
 
-> 💡 **التصميم المدروس**: نبدأ بفهم عميق لاحتياجات المستخدمين والأهداف التجارية.
+> 💡 **Thoughtful Design**: We begin with a deep understanding of user needs and business objectives.
 > 
-> 🛠️ **التطوير المتقن**: نتبع أفضل الممارسات البرمجية مع اختبار شامل لضمان الجودة.
+> 🛠️ **Skilled Development**: We follow best programming practices with comprehensive testing to ensure quality.
 > 
-> 🔄 **التطوير المستمر**: نتبنى منهجية التطوير المرن والتحسين المستمر.
+> 🔄 **Continuous Development**: We adopt agile methodologies and continuous improvement.
 > 
-> 🤝 **الشراكة**: نعمل كشريك حقيقي لعملائنا وليس مجرد مزود خدمة.
+> 🤝 **Partnership**: We work as a true partner for our clients, not just a service provider.
 
-## 🔷 أعمالنا المميزة
+## 🔷 Our Featured Work
 
-### 📲 تطبيقات متوفرة على متجر آبل (App Store)
+### 📲 Applications Available on the App Store
 
-| التطبيق | الوصف | الرابط |
+| Application | Description | Link |
 |---------|--------|--------|
-| **Aynur** | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ac/9c/6a/ac9c6a93-1409-cdbf-7f81-24abb2ae6a58/AppIcon-1x_U007emarketing-0-11-0-0-85-220-0.png/230x0w.webp" alt="Aynur Icon" align="center" width="60"/> | [تحميل التطبيق](https://apps.apple.com/us/app/aynur/id6743452665) |
-| **Carspot Live** | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a7/81/31/a7813152-c959-e7ca-efb7-1e307df5390c/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/230x0w.webp" alt="Carspot Icon" align="center" width="60"/> | [تحميل التطبيق](https://apps.apple.com/us/app/carspot-live/id6739596635) |
-| **Serbini Restaurant** | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b0/eb/f1/b0ebf17f-7aee-b3d6-42f0-753f140084d4/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/230x0w.webp" alt="Serbini Restaurant Icon" align="center" width="60"/> | [تحميل التطبيق](https://apps.apple.com/us/app/serbini-restaurant/id6738758025) |
-| **Serbini Delivery Man** | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/75/4f/03/754f0358-2ff7-7c02-c8e5-cf8863936c19/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/146x0w.webp" alt="Serbini Delivery Man Icon" align="center" width="60"/> | [تحميل التطبيق](https://apps.apple.com/us/app/serbini-delivery-man/id6738761805) |
-| **Serbini Delivery** | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7a/5b/4d/7a5b4d5b-7934-478b-bbec-0da78e101b7b/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/146x0w.webp" alt="Serbini Delivery Icon" align="center" width="60"/> | [تحميل التطبيق](https://apps.apple.com/us/app/serbini-delivery/id6445826834) |
+| **Aynur** | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ac/9c/6a/ac9c6a93-1409-cdbf-7f81-24abb2ae6a58/AppIcon-1x_U007emarketing-0-11-0-0-85-220-0.png/230x0w.webp" alt="Aynur Icon" align="center" width="60"/> | [Download App](https://apps.apple.com/us/app/aynur/id6743452665) |
+| **Carspot Live** | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a7/81/31/a7813152-c959-e7ca-efb7-1e307df5390c/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/230x0w.webp" alt="Carspot Icon" align="center" width="60"/> | [Download App](https://apps.apple.com/us/app/carspot-live/id6739596635) |
+| **Serbini Restaurant** | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b0/eb/f1/b0ebf17f-7aee-b3d6-42f0-753f140084d4/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/230x0w.webp" alt="Serbini Restaurant Icon" align="center" width="60"/> | [Download App](https://apps.apple.com/us/app/serbini-restaurant/id6738758025) |
+| **Serbini Delivery Man** | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/75/4f/03/754f0358-2ff7-7c02-c8e5-cf8863936c19/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/146x0w.webp" alt="Serbini Delivery Man Icon" align="center" width="60"/> | [Download App](https://apps.apple.com/us/app/serbini-delivery-man/id6738761805) |
+| **Serbini Delivery** | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7a/5b/4d/7a5b4d5b-7934-478b-bbec-0da78e101b7b/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/146x0w.webp" alt="Serbini Delivery Icon" align="center" width="60"/> | [Download App](https://apps.apple.com/us/app/serbini-delivery/id6445826834) |
 
-### 📱 تطبيقات متوفرة على متجر جوجل (Google Play)
+### 📱 Applications Available on Google Play
 
-| التطبيق | الوصف | الرابط |
+| Application | Description | Link |
 |---------|--------|--------|
-| **LiftLyft** | <img src="https://play-lh.googleusercontent.com/trdK26XT8Xcx1crIuuVnWGLRn7KrUj6fyRum9CLTatkZ-DYIcik2AIR9pq7bZu-P7N5N=w240-h480-rw" alt="LiftLyft Icon" align="center" width="60"/> | [تحميل التطبيق](https://play.google.com/store/apps/details?id=com.liftlyft.app) |
-| **LiftLyft Driver** | <img src="https://play-lh.googleusercontent.com/4OP0As5_OyFC2-3RAc5NQCM_o_sFL8I4kQNsj1WeHd9t323Fb9Wc4uhgHXAaMjD7M6M=w240-h480-rw" alt="LiftLyft Driver Icon" align="center" width="60"/> | [تحميل التطبيق](https://play.google.com/store/apps/details?id=com.liftlyft.app.driver) |
+| **LiftLyft** | <img src="https://play-lh.googleusercontent.com/trdK26XT8Xcx1crIuuVnWGLRn7KrUj6fyRum9CLTatkZ-DYIcik2AIR9pq7bZu-P7N5N=w240-h480-rw" alt="LiftLyft Icon" align="center" width="60"/> | [Download App](https://play.google.com/store/apps/details?id=com.liftlyft.app) |
+| **LiftLyft Driver** | <img src="https://play-lh.googleusercontent.com/4OP0As5_OyFC2-3RAc5NQCM_o_sFL8I4kQNsj1WeHd9t323Fb9Wc4uhgHXAaMjD7M6M=w240-h480-rw" alt="LiftLyft Driver Icon" align="center" width="60"/> | [Download App](https://play.google.com/store/apps/details?id=com.liftlyft.app.driver) |
 
-## 🔷 رؤيتنا
+## 🔷 Our Vision
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/238200620-398b17d9-30fc-4671-9025-bc0839859a41.gif" width="300" alt="رؤيتنا"/>
+  <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="300" alt="Our Vision"/>
 </div>
 
-نسعى لأن نكون رواداً في مجال تطوير البرمجيات من خلال:
+We strive to be pioneers in software development through:
 
-* ✅ تبني أحدث التقنيات وأكثرها فعالية
-* ✅ تقديم حلول مبتكرة تحل تحديات واقعية
-* ✅ بناء علاقات طويلة الأمد مع عملائنا
-* ✅ المساهمة في تطوير المشهد التقني المحلي والعالمي
+* ✅ Adopting the latest and most effective technologies
+* ✅ Providing innovative solutions that solve real challenges
+* ✅ Building long-term relationships with our clients
+* ✅ Contributing to the development of the local and global tech landscape
 
-## 🔷 تواصل معنا
+## 🔷 Contact Us
 
 <div align="center">
 
@@ -114,10 +114,10 @@
 
 ---
 
-**فريق ميتا كود للبرمجيات** | نحول أفكارك إلى واقع رقمي
+**MetaCode Software Team** | Transforming your ideas into digital reality
 
 <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462e35dc5.gif" width="200" alt="MetaCode"/>
 
-![خط فاصل](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
+![Divider](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
 
 </div>
