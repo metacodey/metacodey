@@ -74,7 +74,7 @@ We are **MetaCode Software Team**, a group of creative and professional develope
 ## 🔷 Our Featured Work
 
 ### 📲 Applications Available on the App Store
-
+<div align="center">
 | Application | Description | Link |
 |---------|--------|--------|
 | **Aynur** | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ac/9c/6a/ac9c6a93-1409-cdbf-7f81-24abb2ae6a58/AppIcon-1x_U007emarketing-0-11-0-0-85-220-0.png/230x0w.webp" alt="Aynur Icon" align="center" width="60"/> | [Download App](https://apps.apple.com/us/app/aynur/id6743452665) |
@@ -82,14 +82,14 @@ We are **MetaCode Software Team**, a group of creative and professional develope
 | **Serbini Restaurant** | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b0/eb/f1/b0ebf17f-7aee-b3d6-42f0-753f140084d4/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/230x0w.webp" alt="Serbini Restaurant Icon" align="center" width="60"/> | [Download App](https://apps.apple.com/us/app/serbini-restaurant/id6738758025) |
 | **Serbini Delivery Man** | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/75/4f/03/754f0358-2ff7-7c02-c8e5-cf8863936c19/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/146x0w.webp" alt="Serbini Delivery Man Icon" align="center" width="60"/> | [Download App](https://apps.apple.com/us/app/serbini-delivery-man/id6738761805) |
 | **Serbini Delivery** | <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/7a/5b/4d/7a5b4d5b-7934-478b-bbec-0da78e101b7b/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/146x0w.webp" alt="Serbini Delivery Icon" align="center" width="60"/> | [Download App](https://apps.apple.com/us/app/serbini-delivery/id6445826834) |
-
+</div>
 ### 📱 Applications Available on Google Play
-
+<div align="center">
 | Application | Description | Link |
 |---------|--------|--------|
 | **LiftLyft** | <img src="https://play-lh.googleusercontent.com/trdK26XT8Xcx1crIuuVnWGLRn7KrUj6fyRum9CLTatkZ-DYIcik2AIR9pq7bZu-P7N5N=w240-h480-rw" alt="LiftLyft Icon" align="center" width="60"/> | [Download App](https://play.google.com/store/apps/details?id=com.liftlyft.app) |
 | **LiftLyft Driver** | <img src="https://play-lh.googleusercontent.com/4OP0As5_OyFC2-3RAc5NQCM_o_sFL8I4kQNsj1WeHd9t323Fb9Wc4uhgHXAaMjD7M6M=w240-h480-rw" alt="LiftLyft Driver Icon" align="center" width="60"/> | [Download App](https://play.google.com/store/apps/details?id=com.liftlyft.app.driver) |
-
+</div>
 
 
 ## 🔷 Our Open-Source Libraries
