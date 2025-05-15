@@ -1,0 +1,88 @@
+body {
+    font-family: helvetica, Arial;
+    background-color: #fff;
+    color: #000;
+    font-size: 15px;
+}
+.black {
+    background-color: #000;
+    color: #fff;
+}
+.black a{
+    color: #fff !important;
+}
+.black button{
+    background-color: #000;
+    color: #fff;
+}
+.white {
+    background-color: #fff;
+    color: #000;
+}
+#content {
+    width: 95%;
+    margin: 20px auto;
+    display: block;
+    clear: both;
+}
+h2{
+    text-align: center;
+}
+h3{
+    font-size: 1.3em;
+}
+h4{
+    font-size: 1.2em;
+}
+h5{
+    font-size: 1.1em;
+}
+a{
+    color: #000000;
+    word-wrap:break-word;
+    text-decoration:underline;
+}
+p {
+    line-height: 20px;
+}
+ul{
+    padding-left: 30px;
+}
+.local2Device{
+    padding-left: 15px;
+}
+.local2Device ul{
+    margin-top: 0;
+}
+.usebutton {
+    margin: 30px 0;
+}
+button{
+    width: 100%;
+    height: 48px;
+    border-radius: 8px;
+    border: 1px solid #c0c0c0;
+    background-color: transparent;
+    margin-bottom: 10px;
+    padding: 0;
+    font-size: 15px;
+    color: #4a4a4a;
+    display: flex;
+    outline: none;
+    justify-content: center;
+    align-items: center;
+}
+.activeone,.activetwo{
+    border: 1px solid #ff6699;
+    color: #ff6699;
+    font-weight: 600;
+}
+button svg {
+    margin-left: 10px;
+}
+.activeone svg{
+    fill: #ff6699;
+}
+.activetwo svg{
+    fill: #ff6699;
+}
